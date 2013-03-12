@@ -37,9 +37,9 @@ Scala スケーラブルプログラミング [第2版] を読みながら書い
 * breakable
 * break, continue の代替方法
 * for のいろいろ
-** フィルタリング
-** ジェネレータ
-** yield
+ * フィルタリング
+ * ジェネレータ
+ * yield
 * match
 * try-catch-finally
 * 命令型→関数型のサンプル
