@@ -63,4 +63,9 @@ Scala スケーラブルプログラミング [第2版] を読みながら書い
 * ファクトリパターン
 * Spiral アプリケーション
 
+## 第 11 章 Scala の階層構造
+* Any, AnyVal, AnyRef
+* eq
+* Null, Nothing
+
 to be continued...
