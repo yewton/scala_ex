@@ -34,3 +34,9 @@ import Predef._    // Predef パッケージのすべて
 * `Predef.assert` でなく `assert` と書ける
 * この 3 つだけは、後からインポートされたものが先にインポートされたものを隠す
   * `StringBuilder` で参照されるのは `java.lang.StringBuilder` *ではなく* `scala.StringBuilder`
+
+# パッケージオブジェクト
+
+* すべてのパッケージは 1 つだけパッケージオブジェクトを持てる( `package object hoge` )
+* package.class という名前のクラスファイルにコンパイルされ、対応するパッケージのディレクトリに配置される
+   * ソースファイルでもこれに従うのが吉
