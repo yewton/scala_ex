@@ -94,4 +94,8 @@ Scala スケーラブルプログラミング [第2版] を読みながら書い
 * 表明(assertions:アサーション)
   * assert
   * ensuring
+* テストフレームワーク
+  * ScalaTest
+  * JUnit, TestNG
+
 to be continued...

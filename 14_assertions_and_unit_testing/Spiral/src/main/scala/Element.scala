@@ -12,6 +12,7 @@ object Element {
     override val width: Int,
     override val height: Int
   ) extends Element {
+    if (width < 0) throw new IllegalArgumentException
     private val line = ch.toString * width
     def contents = Array.fill(height)(line)
   }
