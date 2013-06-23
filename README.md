@@ -97,5 +97,10 @@ Scala スケーラブルプログラミング [第2版] を読みながら書い
 * テストフレームワーク
   * ScalaTest
   * JUnit, TestNG
+* 仕様としてのテスト
+  * scalatest.FlatSpec
+  * specs2
+* プロパティベースのテスト
+  * scalacheck
 
 to be continued...
